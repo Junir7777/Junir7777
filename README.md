@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Junir7777
+- 👀 I’m interested in learning python programming
+- 🌱 I’m currently studying
